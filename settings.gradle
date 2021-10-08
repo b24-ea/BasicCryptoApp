@@ -1,0 +1,2 @@
+rootProject.name = "BerkRetrofit"
+include ':app'
